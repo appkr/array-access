@@ -1,0 +1,17 @@
+{
+    "name": "appkr/value-array",
+    "description": "ArrayAccess For DTO (Object to Array Transformation)",
+    "type": "Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "appkr",
+            "email": "juwonkim@me.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Appkr\\": "src/"
+        }
+    }
+}
